@@ -3,7 +3,7 @@ Getting-and-Cleaning-Data-Course-Project
 
 The R script called run_analysis.R does the following:
 
-- Read the data in the working directory.
+- Reads the data in the working directory.
 - Merges the training and the test sets to create one data set.
 - Appropriately labels the data set with descriptive variable names.
 - Extracts only the measurements on the mean and standard deviation for each measurement. 
